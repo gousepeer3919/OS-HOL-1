@@ -1,0 +1,5 @@
+test
+testing dup
+testing dup2
+testing fcntl
+
